@@ -1,0 +1,11 @@
+# Site settings
+title: haldjas
+email: haldjas@haldjas.org
+description: > # this means to ignore newlines until "baseurl:"
+  music art photography
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://haldjas.org" # the base hostname & protocol for your site
+
+
+# Build settings
+markdown: kramdown
