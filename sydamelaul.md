@@ -6,7 +6,7 @@ permalink: /sydamelaul/
 
 **2005** - Armastuslaulu peapreemia “Kui oleksin kerge kui lumi” [*Järva Teataja, 22.02.2005*](https://jarvateataja.postimees.ee/2060917/jarvalane-kirjutas-jarvalane-kirjutas)
 
-**2006** - üks kahest peapreemiast «Sipelgad», «Mõttelõng» ja «Su juustes on päike» ([*"väga head laulutekstid ja täiuslik esitus" - Järva Teataja 23.02.2006](https://jarvateataja.postimees.ee/2064861/laululoojad-ule-eesti-kaisid-sudamelinnas))
+**2006** - üks kahest peapreemiast «Sipelgad», «Mõttelõng» ja «Su juustes on päike» ([*"väga head laulutekstid ja täiuslik esitus" - Järva Teataja 23.02.2006*](https://jarvateataja.postimees.ee/2064861/laululoojad-ule-eesti-kaisid-sudamelinnas))
 
 **2007** - Paide linna preemia: Auli Kütt, Leelo Loit «Laul kodust» ([*Järva Teataja 27.02.2007*](https://jarvateataja.postimees.ee/2069343/sudamelaulud-volusid-kuulajaid))
 
