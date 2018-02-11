@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Paide Südamelaulu osavõtud
+permalink: /sydamelaul/
 ---
 
 **2005** - Armastuslaulu peapreemia “Kui oleksin kerge kui lumi” [*Järva Teataja, 22.02.2005*](https://jarvateataja.postimees.ee/2060917/jarvalane-kirjutas-jarvalane-kirjutas)
